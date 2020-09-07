@@ -5,7 +5,9 @@ Political Activism App
 
 •	iRally is a social media app connecting citizens with their representatives in congress, as well as offering a space for users to discuss current events and possible courses of action.
 
-<img src="images/swipe_demo.gif?raw=true"/>
+<p align="center">
+  <img src="images/swipe_demo.gif?raw=true"/>
+</p>
 
 
 
