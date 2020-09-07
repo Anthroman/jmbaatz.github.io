@@ -1,4 +1,4 @@
-# Joshua Baatz
+# Joshua Baatz - Portfolio
 
 ## iRally
 Political Activism App
