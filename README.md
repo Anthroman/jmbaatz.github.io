@@ -11,7 +11,7 @@ Political Activism App
 
 •	Representatives are assigned based on the user’s address, allowing them to tweet or email their reps with ease.
 
-<img src="images/listen_and_tweet_page.png" />
+<img src="images/my_rallies_and_email_page.png" />
 
 ### Installation
 
