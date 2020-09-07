@@ -1,8 +1,16 @@
 # Joshua Baatz
 
-### Portfolio
+## iRally
+Political Activism App
 
-Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
+•	iRally is a social media app connecting citizens with their representatives in congress, as well as offering a space for users to discuss current events and possible courses of action.
+
+
+
+
+
+•	Representatives are assigned based on the user’s address, allowing them to tweet or email their reps with ease.
+
 
 <img src="images/demo.gif?raw=true"/>
 
