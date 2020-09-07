@@ -12,7 +12,7 @@ Political Activism App
 •	Representatives are assigned based on the user’s address, allowing them to tweet or email their reps with ease.
 
 
-<img src="images/listen_and_email_page.png"/>
+![Image of Yaktocat](https://github.com/Anthroman/jmbaatz.github.io/images/listen_and_email_page.png)
 
 ### Installation
 
